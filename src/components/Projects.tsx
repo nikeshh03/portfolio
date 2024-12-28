@@ -19,7 +19,7 @@ const Projects = () => {
       ],
       links: {
         github: 'https://github.com/nikeshh03',
-        demo: 'https://hr-analytics-demo.netlify.app'
+        demo: 'https://hr-analytics-platform.vercel.app/'
       }
     },
     {
